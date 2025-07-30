@@ -161,3 +161,13 @@ button {
         padding: 0.6rem 1rem;
     }
 }
+
+#add-btn:disabled {
+    opacity: 0.5;
+    cursor: not-allowed;
+}
+
+#add-btn:disabled:hover {
+    transform: none;
+    box-shadow: 0 5px 12px rgba(0, 0, 0, 0.3);
+}
