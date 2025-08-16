@@ -59,7 +59,7 @@ Or use the **Live Server** extension in VS Code.
 ## 📁 Project Structure
 
 ```plaintext
-todo-list-app/
+To-Do-List/
 ├── index.html      # HTML structure
 ├── style.css       # CSS styling and layout
 └── script.js       # JavaScript logic
